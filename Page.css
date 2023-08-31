@@ -1,0 +1,33 @@
+.page{
+	background-color: #013431;
+	background-size:cover;
+	padding:15px;
+}
+.color{
+	background-color:#a1a7af;
+}
+.title{
+	color:#eacff3;
+	font-size:35px;
+	padding:10px;
+	font-family:italic;
+}
+.details{
+	color:#e6e6e6;
+	font-size:20px;
+	font-family:sans-serif;
+}
+
+
+
+.first-row{
+	color: black;
+    background-color: rgb(191, 191, 11);
+
+}
+
+
+table,th,td,tr{
+	border-style: solid;
+	border-collapse:collapse;
+}
